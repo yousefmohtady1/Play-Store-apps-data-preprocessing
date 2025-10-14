@@ -1,8 +1,5 @@
 # Play Store Apps Data Analysis and Prediction
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-
 ## Overview
 
 This Jupyter notebook provides a comprehensive analysis of the Google Play Store dataset, focusing on data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling to forecast app installs. The project demonstrates best practices in handling messy real-world data, including duplicate removal, missing value imputation, categorical encoding, and scaling. Multiple regression models are trained and compared to identify the most effective predictor of app popularity (measured by installs).
